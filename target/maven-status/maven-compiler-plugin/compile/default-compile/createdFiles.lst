@@ -1,0 +1,6 @@
+com\cucumber\testng\driver\DriverManager.class
+com\cucumber\testng\pages\DocsPage.class
+com\cucumber\testng\navigation\CucumberNavigation.class
+com\cucumber\testng\navigation\PortalUrl.class
+com\cucumber\testng\pages\BasePage.class
+com\cucumber\testng\pages\HomePage.class
